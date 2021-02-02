@@ -17,7 +17,8 @@ There will be 300 students in the data with 0 or more assignments they have take
 ## Report Card
 
 Read in the data and return a report with the following format:
-student name: PASS|FAIL (count) Passing Assignments, (count) Failing Assignments, (count) Unsubmitted
+
+    student name: PASS|FAIL (count) Passing Assignments, (count) Failing Assignments, (count) Unsubmitted
 
 The final report should have 1 entry per student, so 300 entries.
 Sort the above report by all students that have passed, followed by all of the failing students.
